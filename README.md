@@ -3,7 +3,8 @@
 Team 12 
 # Team Members
 1. Thomas Rogers @thomas3rogers
-2. 
+2. Morgan Emmons @morganemmons
+3. Pierce Helou @heloup
 # Problem Description
 # Data Model
 # Data Dictionary
