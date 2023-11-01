@@ -73,3 +73,6 @@ This query allows the heads of the club to see which of their members are being 
 
 
 # Database Information
+Name of the database: cs_g12p1
+
+Additional Information: Each query we have listed is bookmarked through the use of stored procedures according to this format: TP_Q1();
