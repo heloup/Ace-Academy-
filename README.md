@@ -28,7 +28,7 @@ One of our main revenue drivers is our Pro Shop. With so many items and people c
 
 
 # Quereies
-Query 1: Query 1 shows the amount of court reservation fees owed by each member who has reserved courts. It lists the Members Id, Their first and last name and the amount of fees owed and is ordered in order of amount owed.
+**Query 1**: Query 1 shows the amount of court reservation fees owed by each member who has reserved courts. It lists the Members Id, Their first and last name and the amount of fees owed and is ordered in order of amount owed.
 Code:
 ![Query 1](https://github.com/heloup/Ace-Academy-/assets/148258161/b016d4af-b36b-4eb9-a424-b993e2c98081)
 
@@ -36,12 +36,12 @@ Code:
 
 This query allows the management team to see how much outstanding fees they are owed by each member. This code allows the management to see how much fees need to be charged to each customer account. The query is labeled in order of greatest fee owed in order to ensure the most expensive fees are billed first to have less accounts recievable outstanding hopefully. 
 
-Query 2: Query 2 shows the names of the members who are trained by USTPA certfied coaches it does this by using multiple joins and multi condition wheres.
+**Query 2**: Query 2 shows the names of the members who are trained by USTPA certfied coaches it does this by using multiple joins and multi condition wheres.
 ![Query 2](https://github.com/heloup/Ace-Academy-/assets/148258161/9805249b-2aae-4670-8042-13bfb61863b9)
 
 This query allows the heads of the club to see which of their members are being trained by the highest level of coaching. This gives the Managers a better idea of who the best players in their club are. This query also ensures that the members do not just list the coach as their coach but also is actively taking lessons from the coach. This query gives the managers a better idea of the skill level of their club.
 
-Query 3: This Query retrieves the first names and last names of members who have a court reservation on the 1st of November, along with the corresponding court ID.
+**Query 3**: This Query retrieves the first names and last names of members who have a court reservation on the 1st of November, along with the corresponding court ID.
 
 ![image](https://github.com/heloup/Ace-Academy-/assets/148258150/348c4f37-191a-446b-8a29-9bb4e2e6d758)
 
