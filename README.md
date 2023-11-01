@@ -46,6 +46,11 @@ This query allows the heads of the club to see which of their members are being 
 ![image](https://github.com/heloup/Ace-Academy-/assets/148258150/348c4f37-191a-446b-8a29-9bb4e2e6d758)
 
 
+Query 4:This Query shows how much Michael Williams spent at the Pro Shop, what items he bought, and the price of each item.
+![image](https://github.com/heloup/Ace-Academy-/assets/148258150/3d5b4e78-ae29-416a-a8f1-d9cdcc14e0c8)
+
+
+
 
 
 # Database Information
