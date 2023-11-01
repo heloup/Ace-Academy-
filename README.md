@@ -20,5 +20,10 @@ Every so oftern Ace Academy hosts tournaments. In our tournament entity we accou
 
 One of our main revenue drivers is our Pro Shop. With so many items and people coming through we wanted our clients to be able to have a database for every transaction. Each pro shop item has a unique id, name, price and quanitity in stock. While each transaction has a unique id, date and date. A member can make multiple transactions in the pro shop. While each transaction is made by one member. A pro shop item can be a part of multiple transactions, however each transaction includes one pro shop item. A item can exist independnetly of any transaction.
 # Data Dictionary
+<img width="666" alt="Screenshot 2023-10-31 at 8 02 14 PM" src="https://github.com/heloup/Ace-Academy-/assets/148908686/b3e2d6b1-4d23-4ded-a245-7f3d7cf8efa1">
+
+<img width="627" alt="Screenshot 2023-10-31 at 8 08 19 PM" src="https://github.com/heloup/Ace-Academy-/assets/148908686/ccc84c36-5644-4142-aec0-e1cdc1784d35">
+
+
 # Quereies
 # Database Information
