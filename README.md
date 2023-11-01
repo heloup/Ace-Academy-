@@ -52,7 +52,6 @@ Code:
 ![Query 1](https://github.com/heloup/Ace-Academy-/assets/148258161/b016d4af-b36b-4eb9-a424-b993e2c98081)
 
 
-
 This query allows the management team to see how much outstanding fees they are owed by each member. This code allows the management to see how much fees need to be charged to each customer account. The query is labeled in order of greatest fee owed in order to ensure the most expensive fees are billed first to have less accounts recievable outstanding hopefully. 
 
 **Query 2**: Query 2 shows the names of the members who are trained by USTPA certfied coaches it does this by using multiple joins and multi condition wheres.
@@ -66,10 +65,7 @@ This query allows the heads of the club to see which of their members are being 
 
 **Query 4**:This Query shows how much Michael Williams spent at the Pro Shop, what items he bought, and the price of each item.
 
-![image](https://github.com/heloup/Ace-Academy-/assets/148258150/3d5b4e78-ae29-416a-a8f1-d9cdcc14e0c8)
-
-
-
+<img width="841" alt="Query 4" src="https://github.com/heloup/Ace-Academy-/assets/148908686/0e111bc0-c992-4cd0-86fc-d19d0dae0a73">
 
 
 # Database Information
