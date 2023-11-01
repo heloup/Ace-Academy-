@@ -55,7 +55,7 @@ Code:
 
 This query allows the management team to see how much outstanding fees they are owed by each member. This code allows the management to see how much fees need to be charged to each customer account. The query is labeled in order of greatest fee owed in order to ensure the most expensive fees are billed first to have less accounts recievable outstanding hopefully. 
 
-**Query 2**: Query 2 shows the names of the members who are trained by USTPA certfied coaches it does this by using multiple joins and multi condition wheres.
+**Query 2**: Query 2 shows the names of the members who are trained by Level 4 certfied coaches it does this by using multiple joins and multi condition wheres.
 
 ![Query 1 4610](https://github.com/heloup/Ace-Academy-/assets/148258161/25db50e7-798f-4a81-9d4a-0742d68632e8)
 
