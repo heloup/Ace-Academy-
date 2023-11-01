@@ -60,9 +60,9 @@ This query allows the management team to see how much outstanding fees they are 
 
 This query allows the heads of the club to see which of their members are being trained by the highest level of coaching. This gives the Managers a better idea of who the best players in their club are. This query also ensures that the members do not just list the coach as their coach but also is actively taking lessons from the coach. This query gives the managers a better idea of the skill level of their club.
 
-**Query 3**: This Query retrieves the first names and last names of members who have a court reservation on the 1st of November, along with the corresponding court ID.
+**Query 3**:  This Query retrieves the first names and last names of members who have a court reservation on the 1st of November, along with the corresponding court ID.
 
-![image](https://github.com/heloup/Ace-Academy-/assets/148258150/348c4f37-191a-446b-8a29-9bb4e2e6d758)
+![image](https://github.com/heloup/Ace-Academy-/assets/148258150/6527eaa1-0f42-464c-87d7-6881982b6dd1)
 
 **Query 4**:This Query shows how much Michael Williams spent at the Pro Shop, what items he bought, and the price of each item.
 
