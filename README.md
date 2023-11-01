@@ -2,9 +2,9 @@
 # Team Name 
 Team 12 
 # Team Members
-1. Thomas Rogers @thomas3rogers
-2. Morgan Emmons @morganemmons
-3. Pierce Helou @heloup
+1. Thomas Rogers [@thomas3rogers](https://github.com/thomas3rogers)
+2. Morgan Emmons [@morganemmons](https://github.com/morganemmons)
+3. Pierce Helou [@heloup](https://github.com/heloup)
 # Problem Description
 The problem we were tasked with was building a relational database for Ace Academy tennis club that classifies and connects their activities, members, and services offered. The main entity of the model was the Members as they represent the most important factor of the club. We believe the members are the main entity of the model as they can interact with almost all other aspects of the model they reserve and play on the courts, participate in tournaments, buy items from the proshop, and schedule lessons with coaches. The main problem we were tasked with was building a database that could help with streamlining operations, improve member experiences, and enhance marketing efforts. Our main goal in this is to accurately fill the databases and model the relationships in order to give the management team an accurate glimpse into the data and relationships that exist wtihin their club to help spur on further improvements. (add Queries explanation)
 # Data Model
