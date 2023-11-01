@@ -1,6 +1,6 @@
 # Team 12 MIST 4610 Group Project 1 
 # Team Name 
-Team 12 
+15061 Team 12 
 # Team Members
 1. Thomas Rogers [@thomas3rogers](https://github.com/thomas3rogers)
 2. Morgan Emmons [@morganemmons](https://github.com/morganemmons)
