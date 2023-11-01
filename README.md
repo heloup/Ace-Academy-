@@ -22,10 +22,29 @@ One of our main revenue drivers is our Pro Shop. With so many items and people c
 ![Project 1 Data Model](https://github.com/heloup/Ace-Academy-/assets/148258150/07573c48-7abd-46ff-8e8b-8653748532bd)
 
 # Data Dictionary
-<img width="666" alt="Screenshot 2023-10-31 at 8 02 14 PM" src="https://github.com/heloup/Ace-Academy-/assets/148908686/b3e2d6b1-4d23-4ded-a245-7f3d7cf8efa1">
+<img width="587" alt="members table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/4112a96d-5784-4745-8575-5813721ce85a">
 
-<img width="627" alt="Screenshot 2023-10-31 at 8 08 19 PM" src="https://github.com/heloup/Ace-Academy-/assets/148908686/ccc84c36-5644-4142-aec0-e1cdc1784d35">
+<img width="557" alt="coaches table " src="https://github.com/heloup/Ace-Academy-/assets/148908686/a847feda-4e1b-49bc-951e-1f39a4cfab4b">
 
+<img width="600" alt="Court table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/8770bfbc-bf26-4350-a4c0-6e028b2772e1">
+
+<img width="602" alt="reservation table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/baa53d09-cf54-4817-9d54-ac0fbf84144f">
+
+<img width="634" alt="tournament table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/3d36ed56-1c37-44ad-8502-fe22377f443b">
+
+<img width="607" alt="court for tournament table " src="https://github.com/heloup/Ace-Academy-/assets/148908686/ec50837b-7539-4654-87ba-aff20c4e36b5">
+
+<img width="605" alt="tournament participants table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/87af4626-f26b-4875-b5d7-6d325c659178">
+
+<img width="633" alt="items table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/560c169e-cea5-40af-add7-2d361d1f4346">
+
+<img width="631" alt="pro shop table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/8ca0cfc9-993c-4246-a25a-b9a7c64103a8">
+
+<img width="632" alt="lessons table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/a1f3336e-d19d-4511-b829-89035c246e45">
+
+<img width="635" alt="lesson attendance table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/97d347c3-445c-4d1b-a28a-4a29d82d9900">
+
+<img width="664" alt="Member tournament participation table " src="https://github.com/heloup/Ace-Academy-/assets/148908686/e1b3deeb-f8a9-49be-8c42-a87eabdc2653">
 
 # Quereies
 **Query 1**: Query 1 shows the amount of court reservation fees owed by each member who has reserved courts. It lists the Members Id, Their first and last name and the amount of fees owed and is ordered in order of amount owed.
