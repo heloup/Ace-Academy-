@@ -30,25 +30,10 @@ One of our main revenue drivers is our Pro Shop. With so many items and people c
 # Quereies
 Query 1: Query 1 shows the amount of court reservation fees owed by each member who has reserved courts. It lists the Members Id, Their first and last name and the amount of fees owed and is ordered in order of amount owed.
 Code:
-Execute:
-> select idMembers, f_name, l_name, sum(fee) from Members 
-join Reservation on Members.idMembers= Reservation.Members_idMembers
-join Court on Reservation.Court_idCourt= Court.idCourt 
-Group by idMembers
-order by sum(fee) desc
+![Query 1](https://github.com/heloup/Ace-Academy-/assets/148258161/b016d4af-b36b-4eb9-a424-b993e2c98081)
 
-+ -------------- + ----------- + ----------- + ------------- +
-| idMembers      | f_name      | l_name      | sum(fee)      |
-+ -------------- + ----------- + ----------- + ------------- +
-| 5              | James       | Davis       | 40            |
-| 3              | Michael     | Williams    | 30            |
-| 1              | John        | Smith       | 25            |
-| 2              | Sarah       | Johnson     | 20            |
-| 4              | Laura       | Brown       | 15            |
-+ -------------- + ----------- + ----------- + ------------- +
-5 rows
 
 This query allows the management team to see how much outstanding fees they are owed by each member. This code allows the management to see how much fees need to be charged to each customer account. The query is labeled in order of greatest fee owed in order to ensure the most expensive fees are billed first to have less accounts recievable outstanding hopefully. 
 
-  
+
 # Database Information
