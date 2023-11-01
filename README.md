@@ -19,6 +19,8 @@ At Ace Academy we pride ourselves in our superior coaching. To keep track of eac
 Every so oftern Ace Academy hosts tournaments. In our tournament entity we account for each tournaments ID, time, date, type, and fee. With every torunament we have a lot of particiapnts. A tournament can have multiple participants, but each particpant belongs to one tournament. When we asked our client about members playing in tournaments they said that members can participate in multiple tournaments and that tournaments can have multiple member participants. To show this relationship we created an entity called Member Tournament Participantion.
 
 One of our main revenue drivers is our Pro Shop. With so many items and people coming through we wanted our clients to be able to have a database for every transaction. Each pro shop item has a unique id, name, price and quanitity in stock. While each transaction has a unique id, date and date. A member can make multiple transactions in the pro shop. While each transaction is made by one member. A pro shop item can be a part of multiple transactions, however each transaction includes one pro shop item. A item can exist independnetly of any transaction.
+![Project 1 Data Model](https://github.com/heloup/Ace-Academy-/assets/148258150/07573c48-7abd-46ff-8e8b-8653748532bd)
+
 # Data Dictionary
 <img width="666" alt="Screenshot 2023-10-31 at 8 02 14 PM" src="https://github.com/heloup/Ace-Academy-/assets/148908686/b3e2d6b1-4d23-4ded-a245-7f3d7cf8efa1">
 
