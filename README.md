@@ -70,6 +70,13 @@ This query allows the heads of the club to see which of their members are being 
 
 <img width="841" alt="Query 4" src="https://github.com/heloup/Ace-Academy-/assets/148908686/0e111bc0-c992-4cd0-86fc-d19d0dae0a73">
 
+**Query 5**
+This Query shows the quantity remaining in each item after recent pro shop purchases.
+![Query 5](https://github.com/heloup/Ace-Academy-/assets/148258161/574cdadc-e001-42b2-ba5c-64a11b7b4640)
+
+**Query 6**
+This Query shows 
+
 
 # Database Information
 Name of the database: cs_g12p1
