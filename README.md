@@ -75,8 +75,24 @@ This Query shows the quantity remaining in each item after recent pro shop purch
 ![Query 5](https://github.com/heloup/Ace-Academy-/assets/148258161/574cdadc-e001-42b2-ba5c-64a11b7b4640)
 
 **Query 6**
-This Query shows 
+This Query shows each coach and how many members each coach teaches.
+![Query 6](https://github.com/heloup/Ace-Academy-/assets/148258161/cfcd451f-18d1-4114-8435-ffb136f5a542)
 
+**Query 7**
+This Query shows the most expensive items in the Pro Shop as it uses a correlated subquery to calculate the average.
+![Query 7](https://github.com/heloup/Ace-Academy-/assets/148258161/adffd76d-df24-494e-ad09-317777fb0605)
+
+**Query 8**
+This Query shows how many courts each tournament used and how much money was owed for using these courts.
+![Query8](https://github.com/heloup/Ace-Academy-/assets/148258161/05a11866-240c-4c6a-a4c4-a137d2ad8a39)
+
+**Query 9**
+This Query shows the names of coaches who also are members of the club by using multiple table joins and multi where clauses.
+![Query9](https://github.com/heloup/Ace-Academy-/assets/148258161/97da2100-b836-4439-920a-054f9799f1bd)
+
+**Query 10**
+This Query shows which coaches teach members with premium memberships
+![Query 10](https://github.com/heloup/Ace-Academy-/assets/148258161/b8d02cfd-5294-4e58-b818-db6b98b59096)
 
 # Database Information
 Name of the database: cs_g12p1
