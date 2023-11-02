@@ -12,7 +12,7 @@ Our data model for Ace Academy Tennis Club represents a comprehensive system for
 
 Since each member is vital to us, we wanted to track each member's unique ID, name, contact information, date of birth, membership type, and the renewal date of their membership.
 
-Every court has a unique ID, court number, and different availability times so that everyone can see when each court can be played at other times. Courts can be booked by multiple members. To show this relation, we created a Reservation table to show that members can book numerous courts, and courts can be booked by various members.
+Every court has a unique ID, court number, and different availability times so that everyone can see when each court can be played at other times. Courts can be booked by multiple members. To show this relation, we created a Reservation table to show that members can book numerous courts, and courts can be booked by various members. Each reservation is made by one member and is specific to one court.
 
 At Ace Academy, we pride ourselves in our superior coaching. To keep track of each Coach, each has a unique ID, name, qualifications, and area of focus. A coach can conduct multiple lessons, each run by one coach. We offer many lesson types for many dates and times. Each lesson will also contain its own unique ID. To keep track of the members attending each lesson, we decided to make a Lesson attendance table. This table shows that members can participate in multiple lessons, and each lesson can have multiple attendees.
 
