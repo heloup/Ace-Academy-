@@ -68,21 +68,30 @@ This query allows the heads of the club to see which of their members are being 
 
 This query allows the management of the club to see who is reserving what courts for the first day of November. This allows them to have an idea which courts will be available that day and what members will be using the courts that day. This query also sets up a baseline query for the management to use in the future. This query can be saved and used to find courts being used on any date in the future by changing the date in the reg exp.
 
-**Query 4**:This Query shows how much Michael Williams spent at the Pro Shop, what items he bought, and the price of each item.
+**Query 4**:This Query shows how much Michael Williams spent at the Pro Shop, what items he bought, and the price of each item.This query does this by listing the Members first and last names and the Items name and price. It gathers this information by using math formulas, column renaming, multiple joins and multiple wheres.
 
 <img width="841" alt="Query 4" src="https://github.com/heloup/Ace-Academy-/assets/148908686/0e111bc0-c992-4cd0-86fc-d19d0dae0a73">
 
+This query allows managers to see what Michael Williams bought but also it creates a baseline query for the future of processing member transactions. They can do this by saving the query and changing the inputs in the where clause to different member names in order to find out what each member purchased.
+
 **Query 5**
-This Query shows the quantity remaining in each item after recent pro shop purchases.
+This Query shows the quantity remaining in each item after recent pro shop purchases. It does this by listing out the items id the Name of the Item and how much quantity it has remaining by using a basic math formula to calculate how much remained. It does this by using math formula and join clause.
 ![Query 5](https://github.com/heloup/Ace-Academy-/assets/148258161/574cdadc-e001-42b2-ba5c-64a11b7b4640)
 
+This query gives the management department of the club a better picture of their pro shop inventory. This query updates their quantities after recent purchases and allows the managers to see if there is products they need to restock in the near future.
+
 **Query 6**
-This Query shows each coach and how many members each coach teaches.
+This Query shows each coach and how many members each coach teaches.It does this by listing the ids of the coaches who teach regularly scheduled lessons to registered members. It conveys this information by listing out the Coach Id, The Coaches first names and last names, and a count of how many members each teaches.
 ![Query 6](https://github.com/heloup/Ace-Academy-/assets/148258161/cfcd451f-18d1-4114-8435-ffb136f5a542)
 
+This query helps the management department have a better understanding of the coaches that teach at its club. Ace Academy has 20 coaches present at its club. However, it only has 5 who teach members lessons regularly. This query helps show the management this and it shows the management which of its coaches it should prioritize as these are the ones giving lessons regularly. 
+
 **Query 7**
-This Query shows the most expensive items in the Pro Shop as it uses a correlated subquery to calculate the average.
+This Query shows the most expensive items in the Pro Shop as it uses a correlated subquery to calculate the average.The query does this by listing out the item ID, item Name, and price while using a correlated subquery to determine what items qualified for the query. 
 ![Query 7](https://github.com/heloup/Ace-Academy-/assets/148258161/adffd76d-df24-494e-ad09-317777fb0605)
+
+This Query shows the management of Ace Academy which of its products could be considered higher end products. This query lists them out and can help the management department see what products it should focus on promoting more to gain more sales revenue in its pro shop. This query can also be combined with the quantity remaining query to give management insight into repricing strategies if it notices excess quantities remaining in their most expensive items.
+
 
 **Query 8**
 This Query shows how many courts each tournament used and how much money was owed for using these courts.
