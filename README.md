@@ -48,6 +48,19 @@ One of our main revenue drivers is our Pro Shop. With so many items and people c
 <img width="664" alt="Member tournament participation table " src="https://github.com/heloup/Ace-Academy-/assets/148908686/e1b3deeb-f8a9-49be-8c42-a87eabdc2653">
 
 # Quereies
+Queries	1	2	3	4	5	6	7	8	9	10
+Group By 	X					X		X		X
+Multiple Joins	X	X	X	X				X	X	X
+Math Function				X	X					
+Built-In Functions	X					X	X	X		X
+Order by	X									
+Group By with Having						X				
+Multi Condition Wheres		X		X					X	
+RegExp		X	X							
+Exists		X								
+Correlated Subquery							X			
+Subquery		X		X						
+
 **Query 1**: Query 1 shows the amount of court reservation fees owed by each member who has reserved courts. It lists the Members Id, Their first and last name and the amount of fees owed and is ordered in order of amount owed.
 Code:
 
