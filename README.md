@@ -94,16 +94,18 @@ This Query shows the management of Ace Academy which of its products could be co
 
 
 **Query 8**
-This Query shows how many courts each tournament used and how much money was owed for using these courts.
+This Query shows how many courts each tournament used and how much money was owed for using these courts.This query shows this by listing out the tournament Id, the count of how many courts it used, and the money owed for those courts. The query finds these columns by using the count and Sum formula along with a multiple join clause and a group by.
 ![Query8](https://github.com/heloup/Ace-Academy-/assets/148258161/05a11866-240c-4c6a-a4c4-a137d2ad8a39)
-
+This query can help managers project how much money they will make from each tournament they host. This can be vital for the club as they budget for the future. The Money owed for the courts should be the minimum the company expects to earn off the tournaments. Using this information, the club can set a minimum budget for what they will earn from the tournament. This also allows the club to set a budget for what to spend on the tournament in order that any money extra made after court fees can be a profit for the Club.
 **Query 9**
-This Query shows the names of coaches who also are members of the club by using multiple table joins and multi where clauses.
+This Query shows the names of coaches who also are members of the club by using multiple table joins and multi where clauses.The query shows this by listing out the Coaches’ first and last name and finding the one person who meets the requirement of the query.
 ![Query9](https://github.com/heloup/Ace-Academy-/assets/148258161/97da2100-b836-4439-920a-054f9799f1bd)
+This query is an interesting one that allows the club to see which coach is also a member at the club. This can be valuable information for the club as they can use the following information to work on a specific payment plan potentially for John Smith. This could include not charging him as much in member fees as payment for coaching.
 
 **Query 10**
-This Query shows which coaches teach members with premium memberships
+This Query shows which coaches teach members with premium memberships. It shows the coaches by listing the coaches’ first and last names along with the count of how many premium members they are coaching. To get these results the query uses a built-in-function multiple joins, where clause and a group by.
 ![Query 10](https://github.com/heloup/Ace-Academy-/assets/148258161/b8d02cfd-5294-4e58-b818-db6b98b59096)
+This query can be useful for management in categorizing which coaches might be the best of their coaches. It does this by listing which ones teach the members who have premium memberships. These are the members who are most likely most skilled or have the most money to pay for the best coach. This can be useful for the managers of the club in recommending coaches to new members or members who are potentially thinking about upgrading to premium membership. This also gives the managers an idea of which coaches to value the most and ensure stay with the club.
 
 # Database Information
 Name of the database: cs_g12p1
