@@ -23,7 +23,11 @@ One of our main revenue drivers is our Pro Shop. With so many items and people c
 ![Project Model Part 2](https://github.com/heloup/Ace-Academy-/assets/148258150/0ae2f7cc-27c0-4df7-bd43-235840450d91)
 
 # Data Dictionary
+Table: Members
+
 <img width="587" alt="members table" src="https://github.com/heloup/Ace-Academy-/assets/148908686/4112a96d-5784-4745-8575-5813721ce85a">
+
+Table: Coaches
 
 <img width="557" alt="coaches table " src="https://github.com/heloup/Ace-Academy-/assets/148908686/a847feda-4e1b-49bc-951e-1f39a4cfab4b">
 
