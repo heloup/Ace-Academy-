@@ -100,6 +100,7 @@ This Query shows the management of Ace Academy which of its products could be co
 This Query shows how many courts each tournament used and how much money was owed for using these courts.This query shows this by listing out the tournament Id, the count of how many courts it used, and the money owed for those courts. The query finds these columns by using the count and Sum formula along with a multiple join clause and a group by.
 ![Query8](https://github.com/heloup/Ace-Academy-/assets/148258161/05a11866-240c-4c6a-a4c4-a137d2ad8a39)
 This query can help managers project how much money they will make from each tournament they host. This can be vital for the club as they budget for the future. The Money owed for the courts should be the minimum the company expects to earn off the tournaments. Using this information, the club can set a minimum budget for what they will earn from the tournament. This also allows the club to set a budget for what to spend on the tournament in order that any money extra made after court fees can be a profit for the Club.
+
 **Query 9**
 This Query shows the names of coaches who also are members of the club by using multiple table joins and multi where clauses.The query shows this by listing out the Coaches’ first and last name and finding the one person who meets the requirement of the query.
 ![Query9](https://github.com/heloup/Ace-Academy-/assets/148258161/97da2100-b836-4439-920a-054f9799f1bd)
